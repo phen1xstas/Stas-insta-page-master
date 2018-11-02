@@ -9,13 +9,13 @@ body {
 	color: #000000;
 	background-color: #424242;
 
-	background: rgb(2,0,36);
-	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,77,1) 35%, rgba(0,212,255,1) 100%);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(31,135,108,1) 48%, rgba(0,212,255,0.9051820557324493) 81%);
 
-	/*background: #F8D353;
-	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
-	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
-	background: linear-gradient(top left, #F8D353, #FF5C5A);*/
+    /*background: #F8D353;
+    background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
+    background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
+    background: linear-gradient(top left, #F8D353, #FF5C5A);*/
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
