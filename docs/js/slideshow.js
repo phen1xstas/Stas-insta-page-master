@@ -27,7 +27,7 @@ $(document).ready(function () {
 
         $(slides[slideIndex - 1]).show();
 
-        setTimeout(showPhotos, 800);
+        setTimeout(showPhotos, 600);
     }
 
 });
