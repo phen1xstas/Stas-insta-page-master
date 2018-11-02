@@ -1,10 +1,14 @@
-.photo {
+ .photo {
 	text-align: center;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	margin-bottom: 70px;
 }
+
+ .photo img{
+     display: none;
+ }
 
 .instafeed {
 	width: 640px;
