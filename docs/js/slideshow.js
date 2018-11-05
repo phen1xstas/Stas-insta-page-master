@@ -7,8 +7,6 @@ $(document).ready(function () {
     function showPhotos() {
         var i;
         var slides = $('.photo img');
-        console.log(slides);
-        console.log(slides.length); //12
 
         // Запускаем цикл для скрытия фотографий
         for (i = 0; i < slides.length; i++) {
