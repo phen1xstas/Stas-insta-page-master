@@ -12,7 +12,7 @@ $(document).ready(function () {
     // initAudioPlayer(); //Если не нужен таймаут (на включение музыки) при загрузке страницы, то закомментировать строку выше, эту соотв. раскомментировать.
 
     function initAudioPlayer() {
-        $pauseBtn.parent().show();
+        $playBtn.parent().show();
         audio.play();
         audio.loop = true;
 
