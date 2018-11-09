@@ -7,7 +7,7 @@ $(document).ready(function () {
     $pauseBtn = $('#audio-pause');
     $audioControl = $('[data-type="audio-control"]');
 
-    setTimeout(initAudioPlayer, 800);
+    setTimeout(initAudioPlayer, 1600);
 
     // initAudioPlayer(); //Если не нужен таймаут (на включение музыки) при загрузке страницы, то закомментировать строку выше, эту соотв. раскомментировать.
 
