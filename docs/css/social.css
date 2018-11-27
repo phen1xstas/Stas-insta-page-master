@@ -28,9 +28,10 @@
 
 .social-wrapper a {
 	transition: 0.2s ease-in;
-	opacity: 1;
+	opacity: 0.8;
 }
 
 .social-wrapper a:hover {
 	font-size: 2.8em;
+	opacity: 1;
 }
